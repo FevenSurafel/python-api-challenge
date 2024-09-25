@@ -1,0 +1,14 @@
+# Ignoring the API keys file to protect sensitive information
+api_keys.py
+
+# Ignoring Python cache files
+__pycache__/
+
+# Ignoring Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files (if you're using a Mac)
+.DS_Store
+
+# Ignoring any environment files
+.env
